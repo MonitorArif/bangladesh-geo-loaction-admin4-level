@@ -1,0 +1,19 @@
+{
+  "name": "geo-data-scrapper-bd",
+  "version": "1.0.0",
+  "description": "Scrap Bangladesh Geo data from GOVT website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muktadir hossain",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "mongoose": "^8.13.2",
+    "puppeteer": "^24.6.0"
+  }
+}
